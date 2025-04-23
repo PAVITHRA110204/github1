@@ -1,2 +1,3 @@
 something created
 get input from user 
+Add two values
