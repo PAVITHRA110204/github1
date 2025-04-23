@@ -1,1 +1,2 @@
 something created
+get input from user 
